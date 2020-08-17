@@ -183,18 +183,18 @@ margin-bottom: 3%;
    top: 50px;
    padding: 20px;
   margin-left: 5%;
-   overflow: hidden;
+ display: flex;
    padding: 20px;
 }
 .hcon_2
 {
     font-size: 27px;
     padding: 10px;
+
 }
 .imgtag{
-  float: right;
-  width: 400px;
-  margin-right: 10%;
+
+ width: 50%;
 }
 .p2{
     color: #0a202f;
